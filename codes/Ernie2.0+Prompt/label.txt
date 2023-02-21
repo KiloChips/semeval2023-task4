@@ -1,0 +1,20 @@
+Self-direction: thought==thought
+Self-direction: action==action
+Stimulation==Stimulation
+Hedonism==Hedonism
+Achievement==Achievement
+Power: dominance==dominance
+Power: resources==resources
+Face==Face
+Security: personal==personal security
+Security: societal== social security
+Tradition==Tradition
+Conformity: rules==rules
+Conformity: interpersonal==interpersonal
+Humility==Humility
+Benevolence: caring==caring
+Benevolence: dependability==dependability
+Universalism: concern==equality, justice, or protection
+Universalism: nature==nature
+Universalism: tolerance==tolerance
+Universalism: objectivity==objectivity
